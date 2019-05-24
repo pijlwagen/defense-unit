@@ -66,5 +66,5 @@ To view the server configuration type `,config show`. This will return a list wi
 1. The command does not work
    - Make sure your server is registered, the bot should do this automatically but if it didn't you can add your server manually by typing `,config register`.
 
-###For developers
+### For developers
 Defense Unit uses a public API which can be found [here](http://api.michel3951.com/documentation)
