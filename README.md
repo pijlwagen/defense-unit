@@ -1,4 +1,4 @@
-# Defense Unit (v3+)
+# Defense Unit (v3.2+)
 **Note: v3 has not been released yet, but a beta version can be invited [here](https://discordapp.com/oauth2/authorize?client_id=576429735337263114&scope=bot&permissions=8)**
 ### Basic usage for users
 Defense Unit is a Discord bot that provides information for ARK: Survival Evolved, from simple item recipes to a knockout calculator or
@@ -56,11 +56,21 @@ To view the server configuration type `,config show`. This will return a list wi
      - disable 
 	   - Disable the ticket system.
  - server
-   - Add or delete an ark server.
-     - add 
-	   - This will link the given server ID with battlemetrics (PC Only, servers are queried via Steam). You can find your server on [battlemetrics.com](https://www.battlemetrics.com/servers/ark). The ID can be found in the URL, example: battlemetrics.com/servers/ark/__123456__ in this case 123456 is the ID. Command example: `,config server add 123456 My ARK Server`. Now you can use `,server 123456` or `,server My ARK Server` to view this server.
-     - delete 
-	   - This will remove the linked server, example `,config server delete 123456` or `,config server delete My ARK Server`.
+   - Moved to [servers](#servers)
+
+### Servers
+The server command has been updated so it is able to support PC Xbox, Switch & Mobile. As server admin (Manage Server) you can add or delete servers.
+###### Adding your server
+I will explain this for both console and PC, let's start with PC first. If you want to make this 10x easier, you can use the premium server tool on our [dashboard](https://fortbots.xyz).
+
+###### For PC:
+First of all you need the server ID found on battlemetrics, head over to their [site](https://battlemetrics.com/servers/ark) and find your server. Open the server's page and check the URL, the URL should end with a few digits, for example ```https://www.battlemetrics.com/servers/ark/123456```. In this case `123456` is the server ID, now go back to discord and type `,config server add pc <The ID> [An optional server name]`. Without the <> and [] of course. If you did everything right it should say Successfully linked this server and you're all done! You can now check your server via `,server <name or id>`.
+
+###### For other platforms:
+Find the name of your server (Case-sensitive), type `,config server add <paltform you are on> <name>`, without the <>. Available platforms are: `xbox`, `mobile` and `switch` (Yes, There indeed is no PS4 support as the endpoint has not been found *yet*). Congratulations! You have now linked the server! You can view it via `,server <name>`
+
+###### Deleting your server:
+simply type `,config server delete <name or id>`
 
 **Common problems**
 1. The command does not work
