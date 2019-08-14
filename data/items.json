@@ -1,0 +1,1252 @@
+{
+  "items": [
+    {
+      "name": "Beer Liquid"
+    },
+    {
+      "name": "Brick"
+    },
+    {
+      "name": "Cane Sugar"
+    },
+    {
+      "name": "Charcoal"
+    },
+    {
+      "name": "Congealed Gas Ball"
+    },
+    {
+      "name": "Dried Barley"
+    },
+    {
+      "name": "Dried Rice"
+    },
+    {
+      "name": "Dried Tea Bags"
+    },
+    {
+      "name": "Dried Tobacco"
+    },
+    {
+      "name": "Dried Wheat"
+    },
+    {
+      "name": "Dry Firewood"
+    },
+    {
+      "name": "Element"
+    },
+    {
+      "name": "Element Dust"
+    },
+    {
+      "name": "Element Shard"
+    },
+    {
+      "name": "Flint"
+    },
+    {
+      "name": "Gasoline"
+    },
+    {
+      "name": "Geopolymer Cement"
+    },
+    {
+      "name": "Glass"
+    },
+    {
+      "name": "Leather"
+    },
+    {
+      "name": "Metal Ingot"
+    },
+    {
+      "name": "Oil"
+    },
+    {
+      "name": "Potent Dust"
+    },
+    {
+      "name": "Scrap Metal Ingot"
+    },
+    {
+      "name": "Steel Ingot"
+    },
+    {
+      "name": "Thatch"
+    },
+    {
+      "name": "Clay"
+    },
+    {
+      "name": "Preserving Salt"
+    },
+    {
+      "name": "Sparkpowder"
+    },
+    {
+      "name": "Lumber"
+    },
+    {
+      "name": "Cementing Paste"
+    },
+    {
+      "name": "Fish Bait"
+    },
+    {
+      "name": "Gunpowder"
+    },
+    {
+      "name": "Trap Bait"
+    },
+    {
+      "name": "Fresh Sugar Juice Bucket"
+    },
+    {
+      "name": "Propellant"
+    },
+    {
+      "name": "Bread Dough"
+    },
+    {
+      "name": "Ground Cashew"
+    },
+    {
+      "name": "Natural Yeast"
+    },
+    {
+      "name": "Organic Oil"
+    },
+    {
+      "name": "Sack of Flour"
+    },
+    {
+      "name": "Salt"
+    },
+    {
+      "name": "Ground Soybean"
+    },
+    {
+      "name": "Clay"
+    },
+    {
+      "name": "Fabric"
+    },
+    {
+      "name": "Fresh Firewood"
+    },
+    {
+      "name": "Fresh Cement"
+    },
+    {
+      "name": "Cup of Malt"
+    },
+    {
+      "name": "Electronics"
+    },
+    {
+      "name": "Polymer"
+    },
+    {
+      "name": "Unstable Element Shard"
+    },
+    {
+      "name": "Unstable Element"
+    },
+    {
+      "name": "Charge Battery"
+    },
+    {
+      "name": "Absorbent Substrate"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Hide Sleeping Bag"
+    },
+    {
+      "name": "Simple Bed"
+    },
+    {
+      "name": "Single Panel Flag"
+    },
+    {
+      "name": "Standing Torch"
+    },
+    {
+      "name": "Multi-Panel Flag"
+    },
+    {
+      "name": "Small Crop Plot"
+    },
+    {
+      "name": "Wardrums"
+    },
+    {
+      "name": "Medium Crop Plot"
+    },
+    {
+      "name": "Stone Fireplace"
+    },
+    {
+      "name": "Large Crop Plot"
+    },
+    {
+      "name": "Bunk Bed"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Storage Chest"
+    },
+    {
+      "name": "Tek Dedicated Storage"
+    },
+    {
+      "name": "Tek Trough"
+    },
+    {
+      "name": "Storage Box"
+    },
+    {
+      "name": "Compost Bin"
+    },
+    {
+      "name": "Vessel"
+    },
+    {
+      "name": "Large Storage Box"
+    },
+    {
+      "name": "Feeding Trough"
+    },
+    {
+      "name": "Preserving Bin"
+    },
+    {
+      "name": "Bookshelf"
+    },
+    {
+      "name": "Refrigerator"
+    },
+    {
+      "name": "Vault"
+    },
+    {
+      "name": "Cryofridge"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tek Replicator"
+    },
+    {
+      "name": "Campfire"
+    },
+    {
+      "name": "Mortar and Pestle"
+    },
+    {
+      "name": "Cooking Pot"
+    },
+    {
+      "name": "Refining Forge"
+    },
+    {
+      "name": "Smithy"
+    },
+    {
+      "name": "Beer Barrel"
+    },
+    {
+      "name": "Fabricator"
+    },
+    {
+      "name": "Industrial Grill"
+    },
+    {
+      "name": "Industrial Grinder"
+    },
+    {
+      "name": "Advanced Workbench"
+    },
+    {
+      "name": "Industrial Forge"
+    },
+    {
+      "name": "Chemistry Bench"
+    },
+    {
+      "name": "Industrial Cooker"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Thatch Door"
+    },
+    {
+      "name": "Thatch Foundation"
+    },
+    {
+      "name": "Thatch Wall"
+    },
+    {
+      "name": "Sloped Thatch Roof"
+    },
+    {
+      "name": "Sloped Thatch Wall Left"
+    },
+    {
+      "name": "Sloped Thatch Wall Right"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Wooden Sign"
+    },
+    {
+      "name": "Wooden Ceiling"
+    },
+    {
+      "name": "Wooden Door"
+    },
+    {
+      "name": "Wooden Doorframe"
+    },
+    {
+      "name": "Wooden Fence Foundation"
+    },
+    {
+      "name": "Wooden Fence Support"
+    },
+    {
+      "name": "Wooden Foundation"
+    },
+    {
+      "name": "Wooden Triangle Ceiling"
+    },
+    {
+      "name": "Wooden Triangle Foundation"
+    },
+    {
+      "name": "Wooden Wall"
+    },
+    {
+      "name": "Sloped Wood Wall Left"
+    },
+    {
+      "name": "Sloped Wood Wall Right"
+    },
+    {
+      "name": "Wooden Pillar"
+    },
+    {
+      "name": "Wooden Ramp"
+    },
+    {
+      "name": "Wooden Stairs"
+    },
+    {
+      "name": "Wooden Hatchframe"
+    },
+    {
+      "name": "Wooden Ladder"
+    },
+    {
+      "name": "Wooden Spike Wall"
+    },
+    {
+      "name": "Wooden Trapdoor"
+    },
+    {
+      "name": "Sloped Wooden Roof"
+    },
+    {
+      "name": "Wooden Catwalk"
+    },
+    {
+      "name": "Wooden Railing"
+    },
+    {
+      "name": "Wooden Staircase"
+    },
+    {
+      "name": "Wooden Triangle Roof"
+    },
+    {
+      "name": "Wooden Window"
+    },
+    {
+      "name": "Wooden Windowframe"
+    },
+    {
+      "name": "Large Wooden Wall"
+    },
+    {
+      "name": "Dinosaur Gate"
+    },
+    {
+      "name": "Dinosaur Gateway"
+    },
+    {
+      "name": "Wooden Double Door"
+    },
+    {
+      "name": "Wooden Double Doorframe"
+    },
+    {
+      "name": "Wooden Bench"
+    },
+    {
+      "name": "Wooden Billboard"
+    },
+    {
+      "name": "Wooden Chair"
+    },
+    {
+      "name": "Wooden Table"
+    },
+    {
+      "name": "Wooden Wall Sign"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Gravestone"
+    },
+    {
+      "name": "Reinforced Wooden Door"
+    },
+    {
+      "name": "Stone Ceiling"
+    },
+    {
+      "name": "Stone Doorframe"
+    },
+    {
+      "name": "Stone Foundation"
+    },
+    {
+      "name": "Stone Stairs"
+    },
+    {
+      "name": "Stone Triangle Ceiling"
+    },
+    {
+      "name": "Stone Triangle Foundation"
+    },
+    {
+      "name": "Stone Wall"
+    },
+    {
+      "name": "Stone Fence Foundation"
+    },
+    {
+      "name": "Stone Fence Support"
+    },
+    {
+      "name": "Stone Pillar"
+    },
+    {
+      "name": "Reinforced Trapdoor"
+    },
+    {
+      "name": "Reinforced Window"
+    },
+    {
+      "name": "Stone Hatchframe"
+    },
+    {
+      "name": "Stone Windowframe"
+    },
+    {
+      "name": "Reinforced Dinosaur Gate"
+    },
+    {
+      "name": "Sloped Stone Roof"
+    },
+    {
+      "name": "Sloped Stone Wall Left"
+    },
+    {
+      "name": "Sloped Stone Wall Right"
+    },
+    {
+      "name": "Stone Dinosaur Gateway"
+    },
+    {
+      "name": "Stone Triangle Roof"
+    },
+    {
+      "name": "Large Stone Wall"
+    },
+    {
+      "name": "Stone Railing"
+    },
+    {
+      "name": "Stone Staircase"
+    },
+    {
+      "name": "Giant Reinforced Trapdoor"
+    },
+    {
+      "name": "Giant Stone Hatchframe"
+    },
+    {
+      "name": "Behemoth Reinforced Dinosaur Gate"
+    },
+    {
+      "name": "Behemoth Stone Dinosaur Gateway"
+    },
+    {
+      "name": "Reinforced Double Door"
+    },
+    {
+      "name": "Stone Double Doorframe"
+    },
+    {
+      "name": "Metal Stairs"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Metal Spike Wall"
+    },
+    {
+      "name": "Metal Ceiling"
+    },
+    {
+      "name": "Metal Door"
+    },
+    {
+      "name": "Metal Doorframe"
+    },
+    {
+      "name": "Metal Foundation"
+    },
+    {
+      "name": "Metal Triangle Ceiling"
+    },
+    {
+      "name": "Metal Triangle Foundation"
+    },
+    {
+      "name": "Metal Wall"
+    },
+    {
+      "name": "Metal Billboard"
+    },
+    {
+      "name": "Metal Pillar"
+    },
+    {
+      "name": "Metal Railing"
+    },
+    {
+      "name": "Metal Staircase"
+    },
+    {
+      "name": "Metal Window"
+    },
+    {
+      "name": "Metal Windowframe"
+    },
+    {
+      "name": "Metal Catwalk"
+    },
+    {
+      "name": "Metal Ramp"
+    },
+    {
+      "name": "Metal Triangle Roof"
+    },
+    {
+      "name": "Sloped Metal Roof"
+    },
+    {
+      "name": "Sloped Metal Wall Left"
+    },
+    {
+      "name": "Sloped Metal Wall Right"
+    },
+    {
+      "name": "Metal Fence Foundation"
+    },
+    {
+      "name": "Metal Fence Support"
+    },
+    {
+      "name": "Metal Hatchframe"
+    },
+    {
+      "name": "Metal Ladder"
+    },
+    {
+      "name": "Metal Trapdoor"
+    },
+    {
+      "name": "Large Metal Wall"
+    },
+    {
+      "name": "Metal Sign"
+    },
+    {
+      "name": "Metal Wall Sign"
+    },
+    {
+      "name": "Metal Dinosaur Gate"
+    },
+    {
+      "name": "Metal Dinosaur Gateway"
+    },
+    {
+      "name": "Metal Double Door"
+    },
+    {
+      "name": "Metal Double Doorframe"
+    },
+    {
+      "name": "Giant Metal Hatchframe"
+    },
+    {
+      "name": "Giant Metal Trapdoor"
+    },
+    {
+      "name": "Behemoth Gate"
+    },
+    {
+      "name": "Behemoth Gateway"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Greenhouse Ceiling"
+    },
+    {
+      "name": "Greenhouse Triangle Ceiling"
+    },
+    {
+      "name": "Greenhouse Wall"
+    },
+    {
+      "name": "Greenhouse Door"
+    },
+    {
+      "name": "Greenhouse Doorframe"
+    },
+    {
+      "name": "Greenhouse Triangle Roof"
+    },
+    {
+      "name": "Greenhouse Window"
+    },
+    {
+      "name": "Sloped Greenhouse Roof"
+    },
+    {
+      "name": "Sloped Greenhouse Wall Left"
+    },
+    {
+      "name": "Sloped Greenhouse Wall Right"
+    },
+    {
+      "name": "Greenhouse Double Door"
+    },
+    {
+      "name": "Greenhouse Double Doorframe"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tek ATV"
+    },
+    {
+      "name": "Wooden Raft"
+    },
+    {
+      "name": "Dinghy"
+    },
+    {
+      "name": "Motorboat"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Magical Note"
+    },
+    {
+      "name": "Soap"
+    },
+    {
+      "name": "Very Smelly Note"
+    },
+    {
+      "name": "Note"
+    },
+    {
+      "name": "Stone Pick"
+    },
+    {
+      "name": "Torch"
+    },
+    {
+      "name": "Stone Hatchet"
+    },
+    {
+      "name": "Waterskin"
+    },
+    {
+      "name": "Blood Extraction Syringe"
+    },
+    {
+      "name": "Spyglass"
+    },
+    {
+      "name": "Compass"
+    },
+    {
+      "name": "Paintbrush"
+    },
+    {
+      "name": "Glow Stick"
+    },
+    {
+      "name": "Taxidermy Tool"
+    },
+    {
+      "name": "Flare Gun"
+    },
+    {
+      "name": "Delivery Crate"
+    },
+    {
+      "name": "Fishing Rod"
+    },
+    {
+      "name": "Metal Hatchet"
+    },
+    {
+      "name": "Metal Pick"
+    },
+    {
+      "name": "Scissors"
+    },
+    {
+      "name": "Dino Leash"
+    },
+    {
+      "name": "Parachute"
+    },
+    {
+      "name": "Magnifying Glass"
+    },
+    {
+      "name": "Water Jar"
+    },
+    {
+      "name": "Metal Sickle"
+    },
+    {
+      "name": "Camera"
+    },
+    {
+      "name": "Cryopod"
+    },
+    {
+      "name": "Radio"
+    },
+    {
+      "name": "GPS"
+    },
+    {
+      "name": "Spray Painter"
+    },
+    {
+      "name": "Canteen"
+    },
+    {
+      "name": "Transponder Node"
+    },
+    {
+      "name": "Transponder Tracker"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Sharpened Sword"
+    },
+    {
+      "name": "Tek Sword"
+    },
+    {
+      "name": "Stone Pick"
+    },
+    {
+      "name": "Torch"
+    },
+    {
+      "name": "Spear"
+    },
+    {
+      "name": "Stone Hatchet"
+    },
+    {
+      "name": "Pitchfork"
+    },
+    {
+      "name": "Wooden Club"
+    },
+    {
+      "name": "Wooden Club"
+    },
+    {
+      "name": "Metal Hatchet"
+    },
+    {
+      "name": "Metal Pick"
+    },
+    {
+      "name": "Obsidian Spear"
+    },
+    {
+      "name": "Pike"
+    },
+    {
+      "name": "Metal Machete"
+    },
+    {
+      "name": "Metal Sickle"
+    },
+    {
+      "name": "Sword"
+    },
+    {
+      "name": "Lance"
+    },
+    {
+      "name": "Climbing Pick"
+    },
+    {
+      "name": "Metal Hammer"
+    },
+    {
+      "name": "Obsidian Pickaxe"
+    },
+    {
+      "name": "Pliers"
+    },
+    {
+      "name": "BattleAxe"
+    },
+    {
+      "name": "Viking Axe"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tek Rifle"
+    },
+    {
+      "name": "Spear"
+    },
+    {
+      "name": "Slingshot"
+    },
+    {
+      "name": "Bola"
+    },
+    {
+      "name": "Boomerang"
+    },
+    {
+      "name": "Bow"
+    },
+    {
+      "name": "Flare Gun"
+    },
+    {
+      "name": "Obsidian Spear"
+    },
+    {
+      "name": "Whip"
+    },
+    {
+      "name": "Crossbow"
+    },
+    {
+      "name": "Primitive Cannon"
+    },
+    {
+      "name": "Simple Pistol"
+    },
+    {
+      "name": "Longneck Rifle"
+    },
+    {
+      "name": "Shotgun"
+    },
+    {
+      "name": "Longbow"
+    },
+    {
+      "name": "Harpoon Launcher"
+    },
+    {
+      "name": "Flintlock Pistol"
+    },
+    {
+      "name": "Fabricated Pistol"
+    },
+    {
+      "name": "Pump-Action Shotgun"
+    },
+    {
+      "name": "Assault Rifle"
+    },
+    {
+      "name": "Musket"
+    },
+    {
+      "name": "Recurve Bow"
+    },
+    {
+      "name": "Compound Bow"
+    },
+    {
+      "name": "Fabricated Sniper Rifle"
+    },
+    {
+      "name": "Rocket Launcher"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Boulder"
+    },
+    {
+      "name": "Stone Arrow"
+    },
+    {
+      "name": "Feathered Stone Arrow"
+    },
+    {
+      "name": "Obsidian Arrow"
+    },
+    {
+      "name": "Tranq Arrow"
+    },
+    {
+      "name": "Flame Arrow"
+    },
+    {
+      "name": "Spear Bolt"
+    },
+    {
+      "name": "Flame Arrow"
+    },
+    {
+      "name": "Zip-Line Anchor"
+    },
+    {
+      "name": "Cannon Ball"
+    },
+    {
+      "name": "Simple Bullet"
+    },
+    {
+      "name": "Simple Rifle Ammo"
+    },
+    {
+      "name": "Simple Shotgun Ammo"
+    },
+    {
+      "name": "Grappling Hook"
+    },
+    {
+      "name": "Chain Bola"
+    },
+    {
+      "name": "Advanced Bullet"
+    },
+    {
+      "name": "Advanced Rifle Bullet"
+    },
+    {
+      "name": "Tranquilizer Dart"
+    },
+    {
+      "name": "C4 Charge"
+    },
+    {
+      "name": "Flamethrower Ammo"
+    },
+    {
+      "name": "Transponder Node"
+    },
+    {
+      "name": "Tranq Spear Bolt"
+    },
+    {
+      "name": "Metal Arrow"
+    },
+    {
+      "name": "Advanced Sniper Bullet"
+    },
+    {
+      "name": "Rocket Propelled Grenade"
+    },
+    {
+      "name": "Pheromone Dart"
+    },
+    {
+      "name": "Rocket Homing Missile"
+    },
+    {
+      "name": "Shocking Tranquilizer Dart"
+    },
+    {
+      "name": "Cannon Shell"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tek Grenade"
+    },
+    {
+      "name": "Smoke Grenade"
+    },
+    {
+      "name": "Grenade"
+    },
+    {
+      "name": "Barrel of Gunpowder"
+    },
+    {
+      "name": "Improvised Explosive Device"
+    },
+    {
+      "name": "C4 Charge"
+    },
+    {
+      "name": "C4 Remote Detonator"
+    },
+    {
+      "name": "Sticky Bomb"
+    },
+    {
+      "name": "Tek Gravity Grenade"
+    },
+    {
+      "name": "Cluster Grenade"
+    },
+    {
+      "name": "Rocket Launcher"
+    },
+    {
+      "name": "Rocket Propelled Grenade"
+    },
+    {
+      "name": "Homing Underwater Mine"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Eerie Turret"
+    },
+    {
+      "name": "Tek Turret"
+    },
+    {
+      "name": "Ballista Turret"
+    },
+    {
+      "name": "Catapult Turret"
+    },
+    {
+      "name": "Primitive Cannon"
+    },
+    {
+      "name": "Auto Turret"
+    },
+    {
+      "name": "Minigun Turret"
+    },
+    {
+      "name": "Rocket Turret"
+    },
+    {
+      "name": "Heavy Auto Turret"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Cloth Boots"
+    },
+    {
+      "name": "Cloth Gloves"
+    },
+    {
+      "name": "Cloth Hat"
+    },
+    {
+      "name": "Cloth Pants"
+    },
+    {
+      "name": "Cloth Shirt"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Hide Boots"
+    },
+    {
+      "name": "Hide Gloves"
+    },
+    {
+      "name": "Hide Hat"
+    },
+    {
+      "name": "Hide Pants"
+    },
+    {
+      "name": "Hide Shirt"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Fur Boots"
+    },
+    {
+      "name": "Fur Cap"
+    },
+    {
+      "name": "Fur Chestpiece"
+    },
+    {
+      "name": "Fur Gauntlets"
+    },
+    {
+      "name": "Fur Leggings"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Ghillie Boots"
+    },
+    {
+      "name": "Ghillie Chestpiece"
+    },
+    {
+      "name": "Ghillie Gauntlets"
+    },
+    {
+      "name": "Ghillie Leggings"
+    },
+    {
+      "name": "Ghillie Mask"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Chitin Boots"
+    },
+    {
+      "name": "Chitin Chestpiece"
+    },
+    {
+      "name": "Chitin Gauntlets"
+    },
+    {
+      "name": "Chitin Helmet"
+    },
+    {
+      "name": "Chitin Leggings"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Flak Boots"
+    },
+    {
+      "name": "Flak Chestpiece"
+    },
+    {
+      "name": "Flak Gauntlets"
+    },
+    {
+      "name": "Flak Helmet"
+    },
+    {
+      "name": "Flak Leggings"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Riot Boots"
+    },
+    {
+      "name": "Riot Chestpiece"
+    },
+    {
+      "name": "Riot Gauntlets"
+    },
+    {
+      "name": "Riot Helmet"
+    },
+    {
+      "name": "Riot Leggings"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "SCUBA Flippers"
+    },
+    {
+      "name": "SCUBA Leggings"
+    },
+    {
+      "name": "SCUBA Mask"
+    },
+    {
+      "name": "SCUBA Tank"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Tek Shield"
+    },
+    {
+      "name": "Wooden Shield"
+    },
+    {
+      "name": "Metal Shield"
+    },
+    {
+      "name": "Riot Shield"
+    }
+  ]
+}
