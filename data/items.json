@@ -160,9 +160,6 @@
       "name": "Absorbent Substrate"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Hide Sleeping Bag"
     },
     {
@@ -194,9 +191,6 @@
     },
     {
       "name": "Bunk Bed"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Storage Chest"
@@ -236,9 +230,6 @@
     },
     {
       "name": "Cryofridge"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Tek Replicator"
@@ -283,9 +274,6 @@
       "name": "Industrial Cooker"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Thatch Door"
     },
     {
@@ -302,9 +290,6 @@
     },
     {
       "name": "Sloped Thatch Wall Right"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Wooden Sign"
@@ -415,9 +400,6 @@
       "name": "Wooden Wall Sign"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Gravestone"
     },
     {
@@ -512,9 +494,6 @@
     },
     {
       "name": "Metal Stairs"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Metal Spike Wall"
@@ -625,9 +604,6 @@
       "name": "Behemoth Gateway"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Greenhouse Ceiling"
     },
     {
@@ -664,9 +640,6 @@
       "name": "Greenhouse Double Doorframe"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Tek ATV"
     },
     {
@@ -677,9 +650,6 @@
     },
     {
       "name": "Motorboat"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Magical Note"
@@ -781,9 +751,6 @@
       "name": "Transponder Tracker"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Sharpened Sword"
     },
     {
@@ -851,9 +818,6 @@
     },
     {
       "name": "Viking Axe"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Tek Rifle"
@@ -929,9 +893,6 @@
     },
     {
       "name": "Rocket Launcher"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Boulder"
@@ -1021,9 +982,6 @@
       "name": "Cannon Shell"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Tek Grenade"
     },
     {
@@ -1063,9 +1021,6 @@
       "name": "Homing Underwater Mine"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Eerie Turret"
     },
     {
@@ -1093,9 +1048,6 @@
       "name": "Heavy Auto Turret"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Cloth Boots"
     },
     {
@@ -1109,9 +1061,6 @@
     },
     {
       "name": "Cloth Shirt"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Hide Boots"
@@ -1129,9 +1078,6 @@
       "name": "Hide Shirt"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Fur Boots"
     },
     {
@@ -1145,9 +1091,6 @@
     },
     {
       "name": "Fur Leggings"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Ghillie Boots"
@@ -1165,9 +1108,6 @@
       "name": "Ghillie Mask"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Chitin Boots"
     },
     {
@@ -1181,9 +1121,6 @@
     },
     {
       "name": "Chitin Leggings"
-    },
-    {
-      "name": ""
     },
     {
       "name": "Flak Boots"
@@ -1201,9 +1138,6 @@
       "name": "Flak Leggings"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Riot Boots"
     },
     {
@@ -1219,9 +1153,6 @@
       "name": "Riot Leggings"
     },
     {
-      "name": ""
-    },
-    {
       "name": "SCUBA Flippers"
     },
     {
@@ -1234,9 +1165,6 @@
       "name": "SCUBA Tank"
     },
     {
-      "name": ""
-    },
-    {
       "name": "Tek Shield"
     },
     {
@@ -1247,6 +1175,93 @@
     },
     {
       "name": "Riot Shield"
+    },
+    {
+      "name": "Large Tek Wall"
+    },
+    {
+      "name": "Sloped Tek Roof"
+    },
+    {
+      "name": "Sloped Tek Wall Left"
+    },
+    {
+      "name": "Sloped Tek Wall Right"
+    },
+    {
+      "name": "Tek Bridge"
+    },
+    {
+      "name": "Tek Ceiling"
+    },
+    {
+      "name": "Tek Dinosaur Gate"
+    },
+    {
+      "name": "Tek Dinosaur Gateway"
+    },
+    {
+      "name": "Tek Door"
+    },
+    {
+      "name": "Tek Doorframe"
+    },
+    {
+      "name": "Tek Double Doorframe"
+    },
+    {
+      "name": "Tek Fence Support"
+    },
+    {
+      "name": "Tek Foundation"
+    },
+    {
+      "name": "Tek Hatchframe"
+    },
+    {
+      "name": "Tek Ladder"
+    },
+    {
+      "name": "Tek Pillar"
+    },
+    {
+      "name": "Tek Railing"
+    },
+    {
+      "name": "Tek Staircase"
+    },
+    {
+      "name": "Tek Stairs"
+    },
+    {
+      "name": "Tek Trapdoor"
+    },
+    {
+      "name": "Tek Triangle Ceiling"
+    },
+    {
+      "name": "Tek Triangle Foundation"
+    },
+    {
+      "name": "Tek Triangle Roof"
+    },
+    {
+      "name": "Tek Turret"
+    },
+    {
+      "name": "Tek Wall"
+    },
+    {
+      "name": "Tek Window"
+    },    {
+      "name": "Tek Windowframe"
+    },    {
+      "name": "Vacuum Compartment"
+    },  {
+      "name": "Vacuum Compartment Moonpool"
+    },
+    {
+      "name": "Tek Fence Foundation"
     }
   ]
 }
